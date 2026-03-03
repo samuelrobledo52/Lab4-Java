@@ -1,6 +1,6 @@
 # Laboratorio 4 – Sistemas y Tecnologías Web  
 Samuel Robledo  (241282)
-Sistemas y Tecnologías Web  
+
 Universidad del Valle de Guatemala
 ## Modo Disciplina
 
@@ -102,4 +102,5 @@ http://localhost/modo-disciplina
 Link Del video:
 
 https://youtu.be/xjwiWRKQ5LQ
+
 
