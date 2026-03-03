@@ -1,4 +1,7 @@
 # Laboratorio 4 – Sistemas y Tecnologías Web  
+Samuel Robledo  (241282)
+Sistemas y Tecnologías Web  
+Universidad del Valle de Guatemala
 ## Modo Disciplina
 
 ### Descripción del proyecto
@@ -43,16 +46,8 @@ Este proyecto fue desarrollado sin el uso de frameworks o librerías externas, c
 ## Estructura del proyecto
 
 
-modo-disciplina/
-│
-├── index.html
-├── css/
-│ └── styles.css
-└── js/
-└── app.js
+<img width="769" height="260" alt="image" src="https://github.com/user-attachments/assets/446b4624-d99a-4922-8e26-510f8810c262" />
 
-
----
 
 ## Instalación y ejecución
 
@@ -76,6 +71,9 @@ cd Lab4-Java/modo-disciplina
 
 1. Instalar NGINX:
 
+   <img width="883" height="459" alt="image" src="https://github.com/user-attachments/assets/7c2a175c-afe1-4de3-a3a3-219b17449c3e" />
+
+
 sudo apt install nginx
 
 
@@ -95,13 +93,11 @@ http://localhost/modo-disciplina
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
-- NGINX (servidor local)
+- JavaScript  
+- NGINX 
 
 ---
 
-## Autor
 
-Samuel Robledo  
-Sistemas y Tecnologías Web  
-Universidad del Valle de Guatemala
+
+
