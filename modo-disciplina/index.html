@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Modo Disciplina</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <header class="card">
+        <h1>Modo Disciplina</h1>
+        <p>Convierte tus hábitos en misiones y sube de rango.</p>
+
+        <div class="stats">
+            <div>
+                <span>XP Global</span>
+                <h2 id="xp">0</h2>
+            </div>
+            <div>
+                <span>Rango</span>
+                <h2 id="rank">Aprendiz</h2>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <section class="card">
+            <h2>Crear misión</h2>
+
+            <form id="missionForm">
+                <input type="text" id="name" placeholder="Nombre de misión" required>
+                <input type="text" id="description" placeholder="Descripción" required>
+
+                <select id="difficulty">
+                    <option value="Fácil">Fácil (10 XP)</option>
+                    <option value="Normal">Normal (25 XP)</option>
+                    <option value="Difícil">Difícil (50 XP)</option>
+                </select>
+
+                <button type="submit">Agregar misión</button>
+            </form>
+        </section>
+
+        <section class="card">
+            <h2>Misiones</h2>
+            <ul id="missionList"></ul>
+        </section>
+
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
